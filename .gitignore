@@ -1,0 +1,12 @@
+# Secrets - never upload these
+
+
+# Installed by Composer (run "composer install" to recreate)
+/vendor/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
