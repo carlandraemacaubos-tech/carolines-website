@@ -169,3 +169,5 @@ Dashboard (overview) · Bookings (search by customer name/reference/email, event
 
 ### New files
 `includes/availability.php` (the availability engine) · `api/availability.php` (JSON for the calendar) · `database/migration-002-availability.sql` · `admin/bookings.php`, `calendar.php`, `calendar-day.php`, `availability.php`, `availability-action.php`, `customers.php`, `history.php`, `send-update.php` · updated `booking.php`, `assets/js/booking.js`, `assets/css/*`, `includes/bookings.php`, `booking/submit-booking.php`.
+#   c a r o l i n e s - w e b s i t e  
+ 
